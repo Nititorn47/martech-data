@@ -140,6 +140,16 @@ const MartechMembers = (function() {
       if (company.email) html += '<div class="popup-meta"><strong>Email : </strong>' + company.email + '</div>';
       if (company.website) html += '<div class="popup-meta"><strong>Website : </strong><a href="' + company.website + '" target="_blank">' + company.website.replace(/^https?:\/\//, '') + '</a></div>';
       if (company.description) html += '<div class="popup-desc">' + company.description + '</div>';
+      
+      // Render Tags
+      if (company.tags && company.tags.length > 0) {
+        html += '<div class="popup-tags" style="margin-top: 10px; border-top: 1px solid #f0f0f0; padding-top: 10px;">';
+        company.tags.forEach(function(tag) {
+          html += '<span style="display: inline-block; background: #f0f0f0; color: #666; font-size: 11px; padding: 2px 8px; border-radius: 4px; margin-right: 4px; margin-bottom: 4px;">' + tag + '</span>';
+        });
+        html += '</div>';
+      }
+
       html += '</div>';
       
       html += '</span>';
