@@ -957,7 +957,7 @@ const MARTECH_COMPANIES = [
     contact: "",
     phone: "",
     email: "",
-    website: "",
+    website: "https://brandthinkmedia.me/",
     description: "BrandThink ที่ปรึกษาด้านกลยุทธ์แบรนด์และการตลาด",
     tags: ["Consulting", "Branding", "Strategy"]
   }
