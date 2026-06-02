@@ -58,16 +58,16 @@ const MARTECH_COMPANIES = [
     description: "Shipnity ระบบจัดการร้านค้าออนไลน์ (Order Management) และคลังสินค้า (Max Warehouse) พร้อมฟีเจอร์ POS และเชื่อมต่อ E-Marketplace ครบวงจร",
     tags: ["E-Commerce", "Management System", "POS", "Tech Platform"]
   },
-  { 
-    id: "data-first", 
-    nameTh: "บริษัท ดาต้า เฟิร์ส จำกัด", 
-    nameEn: "Data First Co., Ltd.", 
-    logo: "https://martechthai.org/wp-content/uploads/2024/03/Company-Logo-13.png", 
-    businessType: "Agency", 
-    contact: "ชญานิศ เติมแก้ว", 
-    phone: "02-354-3570", 
-    email: "support@datafirst.id", 
-    website: "https://www.datafirst.co.th/", 
+  {
+    id: "data-first",
+    nameTh: "บริษัท ดาต้า เฟิร์ส จำกัด",
+    nameEn: "Data First Co., Ltd.",
+    logo: "https://martechthai.org/wp-content/uploads/2026/06/Data-first.png",
+    businessType: "Agency",
+    contact: "ชญานิศ เติมแก้ว",
+    phone: "02-354-3570",
+    email: "support@datafirst.id",
+    website: "https://www.fareastfamelineddb.com/", 
     description: "Data First ที่ปรึกษาและผู้ให้บริการโซลูชันด้านข้อมูลครบวงจร ทั้ง Data Science, AI/Chatbot และ Product อย่าง FLOW F&B Analytics สำหรับธุรกิจร้านอาหาร",
     tags: ["Data Analytics", "Consulting", "AI", "MarTech Solution"]
   },
@@ -136,17 +136,17 @@ const MARTECH_COMPANIES = [
     description: "Tellscore ผู้นำด้าน Influencer Marketing Automation Platform ของไทย เชื่อมต่อแบรนด์กับ Influencer กว่า 90,000 รายด้วยระบบ AI พร้อมบริการ Media Buy & Optimization",
     tags: ["Influencer Marketing", "Tech Platform", "AI", "Digital Agency"]
   },
-  { 
-    id: "nation-news", 
-    nameTh: "บริษัท เนชั่น นิวส์ จำกัด", 
-    nameEn: "", 
-    logo: "https://martechthai.org/wp-content/uploads/2024/03/Company-Logo-22.png", 
-    businessType: "Media", 
-    contact: "", 
-    phone: "", 
-    email: "", 
-    website: "", 
-    description: "เนชั่น นิวส์ สื่อชั้นนำที่นำเสนอข่าวสารและโซลูชันการตลาดดิจิทัลผ่านแพลตฟอร์มต่างๆ ทั้ง Online และ On-ground",
+  {
+    id: "nation-news",
+    nameTh: "บริษัท เนชั่น นิวส์ จำกัด",
+    nameEn: "Nation News Co., Ltd.",
+    logo: "https://martechthai.org/wp-content/uploads/2024/03/Company-Logo-22.png",
+    businessType: "Media",
+    contact: "",
+    phone: "",
+    email: "",
+    website: "",
+    description: "Nation Group สื่อชั้นนำที่นำเสนอข่าวสารและโซลูชันการตลาดดิจิทัลผ่านแพลตฟอร์มต่างๆ ทั้ง Online และ On-ground",
     tags: ["Media", "Publisher", "Online Media", "News"]
   },
   { 
@@ -318,18 +318,18 @@ const MARTECH_COMPANIES = [
     description: "One Mobby ผู้ให้บริการ MarTech Solution ครบวงจร ทั้ง Thaibulksms, Movider และแพลตฟอร์ม Chatbot/CDP เพื่อช่วยธุรกิจทำ Digital Transformation",
     tags: ["Tech Platform", "SMS Marketing", "Chatbot", "CDP"]
   },
-  { 
-    id: "ymdot", 
-    nameTh: "บริษัท วายเอ็มดอท สตูดิโอ จำกัด", 
-    nameEn: "", 
-    logo: "https://martechthai.org/wp-content/uploads/2024/03/Company-Logo-41.png", 
-    businessType: "Agency", 
-    contact: "", 
-    phone: "", 
-    email: "", 
-    website: "", 
-    description: "",
-    tags: ["Agency", "Creative"]
+  {
+    id: "ymdot",
+    nameTh: "บริษัท วายเอ็มดอท สตูดิโอ จำกัด",
+    nameEn: "YM.DOT Studio Co., Ltd.",
+    logo: "https://martechthai.org/wp-content/uploads/2026/06/Yell-logo-2023.png",
+    businessType: "Agency",
+    contact: "",
+    phone: "",
+    email: "",
+    website: "https://www.yellworldwide.com/",
+    description: "YM.DOT Studio (Yell Worldwide) เอเจนซี่การตลาดดิจิทัลที่ขับเคลื่อนด้วยความคิดสร้างสรรค์และเทคโนโลยี",
+    tags: ["Digital Agency", "Creative", "Marketing"]
   },
   { 
     id: "winter-egency", 
@@ -883,18 +883,83 @@ const MARTECH_COMPANIES = [
     description: "เอเจนซี่การตลาดดิจิทัลที่ขับเคลื่อนด้วยข้อมูล",
     tags: ["Digital Agency", "Data Driven", "Performance Marketing"]
   },
-  { 
-    id: "infilight", 
-    nameTh: "บริษัท อินฟิไลท์ จำกัด", 
-    nameEn: "Infilight co.,ltd", 
-    logo: "https://martechthai.org/wp-content/uploads/2025/12/JordSabuy_Logo_RGB_Logo-Corporate-Vertical-Walaiwan-Suttapash.png", 
-    businessType: "Tech Platform", 
-    contact: "ธนภูมิ สุกัญจนศิริ", 
-    phone: "085-046-2787", 
-    email: "thanaphum.s@jordsabuy.com", 
-    website: "https://jordsabuy.com", 
+  {
+    id: "infilight",
+    nameTh: "บริษัท อินฟิไลท์ จำกัด",
+    nameEn: "Infilight co.,ltd",
+    logo: "https://martechthai.org/wp-content/uploads/2025/12/JordSabuy_Logo_RGB_Logo-Corporate-Vertical-Walaiwan-Suttapash.png",
+    businessType: "Tech Platform",
+    contact: "ธนภูมิ สุกัญจนศิริ",
+    phone: "085-046-2787",
+    email: "thanaphum.s@jordsabuy.com",
+    website: "https://jordsabuy.com",
     description: "Jordsabuy (โดย Infilight) ระบบบริหารลานจอดรถอัจฉริยะ (Smart Parking) ช่วยจัดการสมาชิก/ลูกบ้าน และบันทึกข้อมูลการจอดด้วยเทคโนโลยี IoT",
     tags: ["Smart Parking", "IoT", "Tech Platform", "Management System"]
+  },
+  {
+    id: "play-digital",
+    nameTh: "บริษัท เพลย์ดิจิตอล จํากัด",
+    nameEn: "Play Digital Co., Ltd.",
+    logo: "https://martechthai.org/wp-content/uploads/2026/06/playdigital.png",
+    businessType: "Agency",
+    contact: "",
+    phone: "",
+    email: "",
+    website: "https://www.playdigital.co.th/",
+    description: "Play Digital เอเจนซี่การตลาดดิจิทัลแบบครบวงจร",
+    tags: ["Digital Agency", "Marketing"]
+  },
+  {
+    id: "egg-digital",
+    nameTh: "บริษัท เอ้ก ดิจิทัล จำกัด",
+    nameEn: "Egg Digital Co., Ltd.",
+    logo: "https://martechthai.org/wp-content/uploads/2026/06/LOGO_EGG-DIGITAL.jpg",
+    businessType: "Agency",
+    contact: "",
+    phone: "",
+    email: "",
+    website: "https://www.eggdigital.com",
+    description: "Egg Digital เอเจนซี่การตลาดดิจิทัล เชี่ยวชาญด้าน Creative และ Performance Marketing",
+    tags: ["Digital Agency", "Creative", "Performance Marketing"]
+  },
+  {
+    id: "assumption-university",
+    nameTh: "มหาวิทยาลัยอัสสัมชัญ",
+    nameEn: "Assumption University of Thailand",
+    logo: "https://martechthai.org/wp-content/uploads/2026/06/ABAC.png",
+    businessType: "University",
+    contact: "",
+    phone: "",
+    email: "",
+    website: "https://admissions.au.edu/?page_id=2508&lang=th",
+    description: "มหาวิทยาลัยอัสสัมชัญ สถาบันการศึกษาชั้นนำของไทย",
+    tags: ["Education", "Academic", "University"]
+  },
+  {
+    id: "thnic",
+    nameTh: "บริษัท ที.เอช.นิค จำกัด",
+    nameEn: "TH Nic Co., Ltd.",
+    logo: "https://martechthai.org/wp-content/uploads/2026/06/thnic-logo.jpg",
+    businessType: "Agency",
+    contact: "",
+    phone: "",
+    email: "",
+    website: "https://www.thnic.co.th/",
+    description: "TH Nic ให้บริการด้านการตลาดและเทคโนโลยี",
+    tags: ["Digital Agency", "MarTech"]
+  },
+  {
+    id: "brandthink",
+    nameTh: "บริษัท แบรนด์ธิงค์ จำกัด",
+    nameEn: "BrandThink Co., Ltd.",
+    logo: "https://martechthai.org/wp-content/uploads/2026/06/BT_logotype-03-1.png",
+    businessType: "Agency",
+    contact: "",
+    phone: "",
+    email: "",
+    website: "",
+    description: "BrandThink ที่ปรึกษาด้านกลยุทธ์แบรนด์และการตลาด",
+    tags: ["Consulting", "Branding", "Strategy"]
   }
 ];
 
@@ -911,7 +976,10 @@ const MARTECH_PERSONS = [
   { id: "p10", name: "คุณพิมพิกา คุณพรหม" },
   { id: "p11", name: "คุณอนุชิต พงศ์ภัทรานนท์" },
   { id: "p12", name: "คุณศิริพงษ์ สีใสไพร" },
-  { id: "p13", name: "คุณธนัทพัชร์ ตั้งวงศ์ศิริ" }
+  { id: "p13", name: "คุณธนัทพัชร์ ตั้งวงศ์ศิริ" },
+  { id: "p14", name: "คุณกฤษฎิ์ สุวรรณพิบูลย์" },
+  { id: "p15", name: "นายพรหมศร รีกิจติศิริกูล" },
+  { id: "p16", name: "นางสาวเนรัญชลา ปัญญาวงศ์" }
 ];
 
 // Export for use in other files
