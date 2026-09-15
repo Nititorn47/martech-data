@@ -960,6 +960,71 @@ const MARTECH_COMPANIES = [
     website: "https://brandthinkmedia.me/",
     description: "BrandThink ที่ปรึกษาด้านกลยุทธ์แบรนด์และการตลาด",
     tags: ["Consulting", "Branding", "Strategy"]
+  },
+  {
+    id: "easyslip",
+    nameTh: "บริษัท อีซี่สลิป จำกัด",
+    nameEn: "EasySlip Co., Ltd.",
+    logo: "https://martechthai.org/wp-content/uploads/2026/09/es-logo-07.png",
+    businessType: "Tech Platform",
+    contact: "",
+    phone: "02-114-8806",
+    email: "admin@easyslip.com",
+    website: "https://www.easyslip.com",
+    description: "EasySlip ผู้ให้บริการโซลูชัน Slip Verification API ตรวจสอบสลิปโอนเงินอัตโนมัติแบบเรียลไทม์ พร้อมบริการ SMS Marketing และระบบบริหารจัดการลูกค้าสัมพันธ์ Easy CRM",
+    tags: ["Tech Platform", "CRM", "E-Commerce", "Software Development"]
+  },
+  {
+    id: "smart-finder",
+    nameTh: "บริษัท สมาร์ท ไฟน์เดอร์ จำกัด",
+    nameEn: "Smart Finder Co., Ltd.",
+    logo: "https://martechthai.org/wp-content/uploads/2026/09/SORASO.webp",
+    businessType: "Tech Platform",
+    contact: "",
+    phone: "02-422-6780",
+    email: "sales@smartfinder.tech",
+    website: "http://www.smartfinder.tech",
+    description: "Smart Finder ผู้พัฒนาแพลตฟอร์ม SORASO ระบบบริหารจัดการธุรกิจโรงแรมและการบริการ (Hospitality Tech) ครบวงจร ทั้ง PMS, POS, Booking Engine และ Channel Manager",
+    tags: ["Tech Platform", "Software Development", "Cloud", "Consulting"]
+  },
+  {
+    id: "ideaslabs",
+    nameTh: "บริษัท ไอเดียแล็บ จำกัด",
+    nameEn: "IdeasLabs Co., Ltd.",
+    logo: "https://martechthai.org/wp-content/uploads/2026/09/ideaslabs-logo.svg",
+    businessType: "Agency",
+    contact: "",
+    phone: "02-264-5425",
+    email: "hr@ideaslabs.co",
+    website: "https://ideaslabs.co.th",
+    description: "IdeasLabs ดิจิทัลมาร์เก็ตติ้งเอเจนซี่และ MarTech Solution เชี่ยวชาญด้าน Data-Driven Marketing, Influencer & KOL Marketing ผ่านแพลตฟอร์ม KOLAXY ตลอดจนงาน Creative Content และ Seeding Solution",
+    tags: ["Digital Agency", "Influencer Marketing", "Data Analytics", "Consulting"]
+  },
+  {
+    id: "futurecape",
+    nameTh: "บริษัท ฟิวเจอร์เคป จำกัด",
+    nameEn: "FUTURECAPE CO., LTD.",
+    logo: "https://martechthai.org/wp-content/uploads/2026/09/FUTURECAPE-LOGO.webp",
+    businessType: "Tech Platform",
+    contact: "",
+    phone: "",
+    email: "office@futurecape.com",
+    website: "https://futurecape.com/",
+    description: "Futurecape ผู้เชี่ยวชาญด้านเทคโนโลยีเพื่อการตลาดและธุรกิจ ออกแบบและพัฒนาเว็บไซต์ ระบบจัดการข้อมูลเฉพาะธุรกิจ (CRM, ERP, CMS) ระบบอัตโนมัติ และการผสานรวม AI ช่วยลดงานซ้ำซ้อน",
+    tags: ["Software Development", "Tech Platform", "AI", "CRM"]
+  },
+  {
+    id: "siam-kokopelli",
+    nameTh: "บริษัท สยาม โคโคเพลลิ จำกัด",
+    nameEn: "SIAM KOKOPELLI CO., LTD.",
+    logo: "https://martechthai.org/wp-content/uploads/2026/09/logo_siam_kokopelli_white.svg",
+    businessType: "Tech Platform",
+    contact: "",
+    phone: "02-118-3707",
+    email: "",
+    website: "https://siamkokopelli.co.th/",
+    description: "Siam Kokopelli ผู้ให้บริการแพลตฟอร์มจับคู่ธุรกิจดิจิทัลระหว่างประเทศ (Business Matching) ผ่าน BIG ADVANCE GLOBAL (BAG) เชื่อมโยงพันธมิตรธุรกิจไทย-ญี่ปุ่น ขับเคลื่อนด้วย AI และเครือข่ายสถาบันการเงินชั้นนำ",
+    tags: ["Tech Platform", "AI", "Consulting"]
   }
 ];
 
