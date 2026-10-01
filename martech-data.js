@@ -1025,6 +1025,19 @@ const MARTECH_COMPANIES = [
     website: "https://siamkokopelli.co.th/",
     description: "Siam Kokopelli ผู้ให้บริการแพลตฟอร์มจับคู่ธุรกิจดิจิทัลระหว่างประเทศ (Business Matching) ผ่าน BIG ADVANCE GLOBAL (BAG) เชื่อมโยงพันธมิตรธุรกิจไทย-ญี่ปุ่น ขับเคลื่อนด้วย AI และเครือข่ายสถาบันการเงินชั้นนำ",
     tags: ["Tech Platform", "AI", "Consulting"]
+  },
+  {
+    id: "vejthani",
+    nameTh: "บริษัท เวชธานี จำกัด (มหาชน)",
+    nameEn: "VEJTHANI PUBLIC COMPANY LIMITED",
+    logo: "https://martechthai.org/wp-content/uploads/2026/10/ejthani.png",
+    businessType: "Tech Platform",
+    contact: "",
+    phone: "02-734-0000",
+    email: "service@vejthani.com",
+    website: "https://www.vejthani.com",
+    description: "โรงพยาบาลเวชธานี ให้บริการด้านสุขภาพระดับสากล นำเทคโนโลยีและดิจิทัลแพลตฟอร์ม VEJTHANI Application, Telemedicine, นวัตกรรม AI และเทคโนโลยีทางการแพทย์ขั้นสูงมาใช้เพื่อยกระดับการดูแลรักษาผู้ป่วย",
+    tags: ["HealthTech", "Tech Platform", "AI", "Software Development"]
   }
 ];
 
