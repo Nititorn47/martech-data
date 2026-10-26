@@ -1038,6 +1038,19 @@ const MARTECH_COMPANIES = [
     website: "https://www.vejthani.com",
     description: "โรงพยาบาลเวชธานี ให้บริการด้านสุขภาพระดับสากล นำเทคโนโลยีและดิจิทัลแพลตฟอร์ม VEJTHANI Application, Telemedicine, นวัตกรรม AI และเทคโนโลยีทางการแพทย์ขั้นสูงมาใช้เพื่อยกระดับการดูแลรักษาผู้ป่วย",
     tags: ["HealthTech", "Tech Platform", "AI", "Software Development"]
+  },
+  {
+    id: "fantasy-unit",
+    nameTh: "บริษัท แฟนตาซียูนิต จำกัด",
+    nameEn: "FANTASY UNIT COMPANY LIMITED",
+    logo: "https://martechthai.org/wp-content/uploads/2026/10/Fantasy.png",
+    businessType: "Agency",
+    contact: "",
+    phone: "080-540-6357",
+    email: "contact@fantasyunit.co",
+    website: "https://fantasyunit.co/",
+    description: "Fantasy Unit ครีเอทีฟเทคเอเจนซี่ (Creative Tech Partner) ผู้เชี่ยวชาญด้าน Immersive Content, AR Effects, ฟิลเตอร์ TikTok, Interactive Website และเกมสำหรับอีเวนต์ สร้างสรรค์ประสบการณ์ดิจิทัลที่แปลกใหม่ให้กับแบรนด์ชั้นนำ",
+    tags: ["Digital Agency", "Creative", "Software Development", "Media"]
   }
 ];
 
