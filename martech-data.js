@@ -1051,6 +1051,19 @@ const MARTECH_COMPANIES = [
     website: "https://fantasyunit.co/",
     description: "Fantasy Unit ครีเอทีฟเทคเอเจนซี่ (Creative Tech Partner) ผู้เชี่ยวชาญด้าน Immersive Content, AR Effects, ฟิลเตอร์ TikTok, Interactive Website และเกมสำหรับอีเวนต์ สร้างสรรค์ประสบการณ์ดิจิทัลที่แปลกใหม่ให้กับแบรนด์ชั้นนำ",
     tags: ["Digital Agency", "Creative", "Software Development", "Media"]
+  },
+  {
+    id: "idio-tech",
+    nameTh: "บริษัท ไอดิโอ เทค จำกัด",
+    nameEn: "IDIO TECH COMPANY LIMITED",
+    logo: "https://martechthai.org/wp-content/uploads/2026/10/Ideotech.png",
+    businessType: "Agency",
+    contact: "",
+    phone: "02-743-7099",
+    email: "sale@idio-tech.com",
+    website: "https://www.idio-tech.com/",
+    description: "Idio-Tech ผู้ให้บริการ System Integrator และ IT Solutions ครบวงจร เชี่ยวชาญด้านโครงสร้างพื้นฐานระบบเครือข่ายองค์กร (WIFI Network & Security), ระบบ WiFi Marketing (Seara Platform), ระบบติดตามตำแหน่งแบบเรียลไทม์ (RTLS) และโซลูชันหุ่นยนต์บริการเชิงพาณิชย์ (Service Robot)",
+    tags: ["Digital Agency", "Consulting", "Software Development", "Tech Platform"]
   }
 ];
 
