@@ -1064,6 +1064,19 @@ const MARTECH_COMPANIES = [
     website: "https://www.idio-tech.com/",
     description: "Idio-Tech ผู้ให้บริการ System Integrator และ IT Solutions ครบวงจร เชี่ยวชาญด้านโครงสร้างพื้นฐานระบบเครือข่ายองค์กร (WIFI Network & Security), ระบบ WiFi Marketing (Seara Platform), ระบบติดตามตำแหน่งแบบเรียลไทม์ (RTLS) และโซลูชันหุ่นยนต์บริการเชิงพาณิชย์ (Service Robot)",
     tags: ["Digital Agency", "Consulting", "Software Development", "Tech Platform"]
+  },
+  {
+    id: "blue-eagle-eye",
+    nameTh: "บริษัท บลู อีเกิล อายส์ จำกัด",
+    nameEn: "BLUE EAGLE EYE COMPANY LIMITED",
+    logo: "https://martechthai.org/wp-content/uploads/2026/11/blueeagleeye.jpg",
+    businessType: "Agency",
+    contact: "Prakash Thadani (San)",
+    phone: "089-112-9087, 092-593-9898",
+    email: "san@blueeagleeye.com",
+    website: "https://www.blueeagleeye.com/th",
+    description: "Blue Eagle Eye เอเจนซี่วิจัยตลาดและที่ปรึกษาธุรกิจ (Market Research Agency) ให้บริการวิจัยการตลาดครบวงจร ทั้งข้อมูลเชิงปริมาณและเชิงคุณภาพ (Quantitative & Qualitative), การวิเคราะห์อินไซต์ผู้บริโภค (Consumer Insights) และวางกลยุทธ์การตลาดในไทยและเอเชียตะวันออกเฉียงใต้",
+    tags: ["Digital Agency", "Consulting", "Data Analytics", "Market Research"]
   }
 ];
 
