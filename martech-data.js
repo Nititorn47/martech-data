@@ -1077,6 +1077,19 @@ const MARTECH_COMPANIES = [
     website: "https://www.blueeagleeye.com/th",
     description: "Blue Eagle Eye เอเจนซี่วิจัยตลาดและที่ปรึกษาธุรกิจ (Market Research Agency) ให้บริการวิจัยการตลาดครบวงจร ทั้งข้อมูลเชิงปริมาณและเชิงคุณภาพ (Quantitative & Qualitative), การวิเคราะห์อินไซต์ผู้บริโภค (Consumer Insights) และวางกลยุทธ์การตลาดในไทยและเอเชียตะวันออกเฉียงใต้",
     tags: ["Digital Agency", "Consulting", "Data Analytics", "Market Research"]
+  },
+  {
+    id: "motionreach",
+    nameTh: "บริษัท โมชั่นรีช จำกัด",
+    nameEn: "MOTION REACH CO., LTD.",
+    logo: "https://martechthai.org/wp-content/uploads/2026/11/Motion.png",
+    businessType: "Tech Platform",
+    contact: "",
+    phone: "094-658-9142",
+    email: "marketing@motionreach.co.th",
+    website: "https://www.motionreach.co.th/",
+    description: "MotionReach แพลตฟอร์มสื่อโฆษณาเคลื่อนที่และสื่อนอกบ้านดิจิทัล (Mobility Media & DOOH) บนเครือข่ายแท็กซี่และ EV Taxi พร้อมเทคโนโลยี AdTech ที่รองรับการกำหนดกลุ่มเป้าหมายด้วยพิกัด GPS การอัปเดตสื่อแบบเรียลไทม์ และระบบวิเคราะห์ข้อมูลแคมเปญ",
+    tags: ["Tech Platform", "AdTech", "Media", "Data Analytics", "Location-based"]
   }
 ];
 
