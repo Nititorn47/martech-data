@@ -1090,6 +1090,19 @@ const MARTECH_COMPANIES = [
     website: "https://www.motionreach.co.th/",
     description: "MotionReach แพลตฟอร์มสื่อโฆษณาเคลื่อนที่และสื่อนอกบ้านดิจิทัล (Mobility Media & DOOH) บนเครือข่ายแท็กซี่และ EV Taxi พร้อมเทคโนโลยี AdTech ที่รองรับการกำหนดกลุ่มเป้าหมายด้วยพิกัด GPS การอัปเดตสื่อแบบเรียลไทม์ และระบบวิเคราะห์ข้อมูลแคมเปญ",
     tags: ["Tech Platform", "AdTech", "Media", "Data Analytics", "Location-based"]
+  },
+  {
+    id: "the-missing-piece",
+    nameTh: "บริษัท เดอะ มิสซิ่ง พีซ จำกัด",
+    nameEn: "THE MISSING PIECE CO., LTD.",
+    logo: "https://martechthai.org/wp-content/uploads/2026/11/themissingpiece.jpg",
+    businessType: "Agency",
+    contact: "ศิริพงษ์ กลิ่นขจร",
+    phone: "085-280-1177",
+    email: "hello@themissingpiece.co.th",
+    website: "https://themissingpiece.co.th/",
+    description: "The Missing Piece ที่ปรึกษา คอร์สฝึกอบรมองค์กร และสื่อออนไลน์ผู้เชี่ยวชาญด้าน SEO, AI Search (AEO/GEO) และการประยุกต์ใช้ AI ในการตลาด พร้อมแพลตฟอร์ม The Mention Lab สำหรับตรวจวัดการมองเห็นของแบรนด์บน AI Search",
+    tags: ["Digital Agency", "SEO/SEM", "AI", "Consulting", "Training"]
   }
 ];
 
