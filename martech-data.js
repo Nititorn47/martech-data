@@ -1103,6 +1103,19 @@ const MARTECH_COMPANIES = [
     website: "https://themissingpiece.co.th/",
     description: "The Missing Piece ที่ปรึกษา คอร์สฝึกอบรมองค์กร และสื่อออนไลน์ผู้เชี่ยวชาญด้าน SEO, AI Search (AEO/GEO) และการประยุกต์ใช้ AI ในการตลาด พร้อมแพลตฟอร์ม The Mention Lab สำหรับตรวจวัดการมองเห็นของแบรนด์บน AI Search",
     tags: ["Digital Agency", "SEO/SEM", "AI", "Consulting", "Training"]
+  },
+  {
+    id: "biztoptier",
+    nameTh: "บริษัท บิซิเนส ท็อปเทียร์ จำกัด",
+    nameEn: "BUSINESS TOPTIER COMPANY LIMITED",
+    logo: "https://martechthai.org/wp-content/uploads/2026/11/S__106446864.jpg",
+    businessType: "Agency",
+    contact: "",
+    phone: "061-789-8692",
+    email: "Biztoptier@outlook.co.th",
+    website: "https://biztoptier.com",
+    description: "Biz Toptier เอเจนซี่และผู้ให้บริการโซลูชันดิจิทัลครบวงจร ทั้ง Digital Marketing (Google Ads, Social Media, Content Strategy), พัฒนาเว็บไซต์ ซอฟต์แวร์ แอปพลิเคชัน, ที่ปรึกษากลยุทธ์ Digital Transformation และแพลตฟอร์มเชื่อมโยงเครือข่ายธุรกิจ B2B",
+    tags: ["Digital Agency", "Software Development", "Consulting", "Performance Marketing", "AI"]
   }
 ];
 
